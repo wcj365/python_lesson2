@@ -1,1 +1,2 @@
-# python_lesson2
+# Python Lesson 2
+This repo contains my **first** *Jupyter* project.
